@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Ubuntu Light для всех сайтов
-// @namespace    https://github.com/xxxKeshu/my-youtube-tweaks
+// @namespace    https://github.com/SolasFor/my-youtube-tweaks
 // @version      1.0.0
 // @description  Применяет шрифт Ubuntu Light ко всему контенту на всех сайтах
 // @author       Solas
 // @match        *://*/*
 // @grant        GM_addStyle
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/xxxKeshu/Scripts-for-browser/main/ubuntu-light-font.user.js
-// @downloadURL  https://raw.githubusercontent.com/xxxKeshu/Scripts-for-browser/main/ubuntu-light-font.user.js
+// @updateURL    https://raw.githubusercontent.com/SolasFor/Scripts-for-browser/main/ubuntu-light-font.user.js
+// @downloadURL  https://raw.githubusercontent.com/SolasFor/Scripts-for-browser/main/ubuntu-light-font.user.js
 // ==/UserScript==
 
 (function() {
