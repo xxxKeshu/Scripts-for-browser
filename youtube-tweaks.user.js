@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Tweaks
-// @namespace    https://github.com/xxxKeshu/my-youtube-tweaks
+// @namespace    https://github.com/SolasFor/my-youtube-tweaks
 // @version      1.0.0
 // @description  Кастомизация YouTube: скрытие элементов, авто-качество, перевод комментариев и др.
 // @author       Solas
@@ -9,8 +9,8 @@
 // @grant        GM_xmlhttpRequest
 // @connect      translate.googleapis.com
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/xxxKeshu/Scripts-for-browser/youtube-tweaks.user.js
-// @downloadURL  https://raw.githubusercontent.com/xxxKeshu/Scripts-for-browser/main/youtube-tweaks.user.js
+// @updateURL    https://raw.githubusercontent.com/SolasFor/Scripts-for-browser/youtube-tweaks.user.js
+// @downloadURL  https://raw.githubusercontent.com/SolasFor/Scripts-for-browser/main/youtube-tweaks.user.js
 // @icon         https://www.youtube.com/s/desktop/favicon.ico
 // ==/UserScript==
 
