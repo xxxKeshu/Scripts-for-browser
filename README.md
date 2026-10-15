@@ -18,8 +18,8 @@
 
 **Прямые ссылки для установки:**
 
-- [📥 Установить YouTube Tweaks](https://raw.githubusercontent.com/xxxKeshu/Scripts-for-browser/main/youtube-tweaks.user.js)
-- [📥 Установить Ubuntu Light Font](https://raw.githubusercontent.com/xxxKeshu/Scripts-for-browser/main/ubuntu-light-font.user.js)
+- [📥 Установить YouTube Tweaks](https://raw.githubusercontent.com/SolasFor/Scripts-for-browser/main/youtube-tweaks.user.js)
+- [📥 Установить Ubuntu Light Font](https://raw.githubusercontent.com/SolasFor/Scripts-for-browser/main/ubuntu-light-font.user.js)
 
 ## ⌨️ Горячие клавиши (YouTube Tweaks)
 
